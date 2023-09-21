@@ -7,6 +7,8 @@
 ```
 git submodule init
 git submodule update
+
+sudo apt-get install libpoppler-dev
 ```
 
 ## Compile project
